@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InstagramJr</string>
+    <string name="kay_t_ol">Kayıt Ol</string>
+    <string name="giri_yap">Giriş Yap</string>
+    <string name="email_giriniz">Email Giriniz...</string>
+    <string name="şifre">************</string>
+    <string name="giri_yap2">Giriş Yap</string>
+    <string name="hesab_n_z_yoksa_hesap_a_n_z">Hesabınız yoksa Hesap Açınız...</string>
+    <string name="hesab_n_z_varsa_giri_yap_n_z">Hesabınız varsa Giriş Yapınız..</string>
+    <string name="email_girinizx">Email Giriniz...</string>
+    <string name="kay_t_olx">Kayıt Ol</string>
+    <string name="profil">Profil</string>
+    <string name="k">Çıkış</string>
+    <string name="kullan_z_sminizi_giriniz">Kullanızı İsminizi Giriniz</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="payla">Paylaş</string>
+</resources>
